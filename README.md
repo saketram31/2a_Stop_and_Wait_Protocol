@@ -1,4 +1,9 @@
 # 2a_Stop_and_Wait_Protocol
+
+##NAME:R SAKETRAM
+
+##REGISTER NUMBER:212223230181
+
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
